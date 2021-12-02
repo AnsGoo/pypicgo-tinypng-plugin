@@ -16,7 +16,7 @@ config
 
 .. code:: yaml
 
-   sms:
+   tinypng:
      module: pypicgo_tinypng_plugin.TinypngPlugin
      config:
        key: xxxxxxxxxxxxxxx

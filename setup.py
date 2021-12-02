@@ -10,7 +10,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='MIT Licence', 
-    url='https://github.com/AnsGoo/PyPicGo',
+    url='https://github.com/AnsGoo/pypicgo-tinypng-plugin',
     author='ansgoo',
     author_email='haiven_123@163.com',
     packages=find_packages(),

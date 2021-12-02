@@ -11,7 +11,7 @@ pip install pypicgo-tinypng-plugin
 ## config
 
 ```yaml
-sms:
+tinypng:
   module: pypicgo_tinypng_plugin.TinypngPlugin
   config:
     key: xxxxxxxxxxxxxxx
