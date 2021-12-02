@@ -1,6 +1,6 @@
-# tinypng for pypicgo
+# Tinypng for pypicgo
 
-tinypng for [PyPicGo](https://github.com/AnsGoo/PyPicGo) to compress images
+Tinypng for [PyPicGo](https://github.com/AnsGoo/PyPicGo) to compress images
 
 ## install
 
@@ -8,3 +8,11 @@ tinypng for [PyPicGo](https://github.com/AnsGoo/PyPicGo) to compress images
 pip install pypicgo-tinypng-plugin
 ```
 
+## config
+
+```yaml
+sms:
+  module: pypicgo_tinypng_plugin.TinypngPlugin
+  config:
+    key: xxxxxxxxxxxxxxx
+```
